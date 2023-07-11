@@ -352,11 +352,14 @@ header img:hover{
     font-weight: 400;
 }
 .Chefs .Chefs-section1 section .word p{
+    width: 100%;
+    height: 120px;
     color: var(--color-1);
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     font-weight: 400;
-    padding-top: 10px;
+    display: flex;
+    align-items: center;
 }
 .Chefs .Chefs-section1 section .Hover{
     width: 100%;
